@@ -2,8 +2,8 @@ syntax = "proto3";
 
 message TestMessage {
   string field_one = 1;
-  // add comment
+  // Field Two
   string field_two = 2;
-  // Add comment
+  // Field Three
   string field_three = 3;
 }
