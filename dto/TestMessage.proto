@@ -4,5 +4,6 @@ message TestMessage {
   string field_one = 1;
   // add comment
   string field_two = 2;
+  // Add comment
   string field_three = 3;
 }
