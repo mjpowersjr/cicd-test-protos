@@ -2,4 +2,5 @@ syntax = "proto3";
 
 message TestMessage {
   string field_one = 1;
+  string field_two = 2;
 }
