@@ -4,6 +4,6 @@ message TestMessage {
   string field_one = 1;
   // Field Two
   string field_two = 2;
-  // Field Three
+  // Field Tres
   string field_three = 3;
 }
